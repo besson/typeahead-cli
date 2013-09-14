@@ -1,0 +1,12 @@
+{
+  "name": "typeahead-cli",
+  "description": "A command line interface for typeahead (auto complete) services",
+  "author": "Felipe Besson",
+  "version": "0.1.0",
+  "dependencies": {
+    "request": "2.27.0",
+    "JSONStream": "0.7.1",
+    "event-stream": "3.0.16",
+    "keypress": "0.2.1"
+  }
+}
